@@ -22,10 +22,6 @@ Comming as soon as this paper is accepted.
 
 <p align="center">
   <a href="https://youtu.be/kulddVW3FdI">
-    <img src="https://img.youtube.com/vi/kulddVW3FdI/maxresdefault.jpg" width="700">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="60">
   </a>
-</p>
-
-<p align="center">
-  ▶️ <a href="https://youtu.be/kulddVW3FdI"><b>Watch on YouTube</b></a>
 </p>
