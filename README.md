@@ -22,6 +22,5 @@ Comming as soon as this paper is accepted.
 
 ## 🎥 Demo Video
 
-<iframe width="600" height="350" src="https://www.youtube.com/embed/kulddVW3FdI" frameborder="0" allowfullscreen></iframe>
-
+<video src="video/demo.mp4" controls width="800"></video>
 
